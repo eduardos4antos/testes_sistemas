@@ -1,0 +1,16 @@
+{
+  "name": "testes_sistemas",
+  "version": "1.0.0",
+  "description": "Este repositório será utilizado para armazenar testes de sistemas desenvolvidos durante as aulas do curso de Desenvolvimento de Sistemas no SENAI.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "dev": "jest --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
